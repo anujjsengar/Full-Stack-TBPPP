@@ -1,0 +1,42 @@
+body{
+    
+}
+.timetable{
+    margin-left: 15%;
+}
+
+table{
+    background-color: antiquewhite;
+    height: 700px;
+    width: 80%;
+    border-style: groove;
+}
+tr,th{
+    text-align:center;
+    font-size:larger;
+    font-style: italic;
+}
+.title{
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCa-OUiby-ZGdptJHxZoRxXGWJ_4P_nMNeqA&s")
+}
+.science{
+    background:url("")
+}
+.maths{
+    background-color:aqua;
+}
+.lunch{
+    background-color: grey;
+}
+.english{
+    background-color: blueviolet;
+}
+.hindi{
+    background-color: cornflowerblue;
+}
+.project{
+    background-color: yellowgreen;
+}
+.sports{
+    background-color: goldenrod ;
+}
